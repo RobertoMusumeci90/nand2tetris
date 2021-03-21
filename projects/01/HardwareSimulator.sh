@@ -1,1 +1,0 @@
-/Users/robertomusumeci/nand2tetris/tools/HardwareSimulator.sh
